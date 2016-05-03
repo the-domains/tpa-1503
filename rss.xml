@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TPA-1503]]></title>
         <description><![CDATA[TPA-1503]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tpa-1503/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 07:59:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 08:01:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tpa-1503/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cesare Borgia]]></title>
             <description><![CDATA[<p>I met Cesare Borgia. The second most powerful man in all of Italia, he wanted nothing more than to return Leonardo to, what he believes, is his rightful place - by Cesare's side.</p>]]></description>
-            <link>undefinedcesare-borgia/index.html</link>
+            <link>https://thegrid.ai/tpa-1503/cesare-borgia/index.html</link>
             <guid isPermaLink="false">8b42628a-9510-4444-b7e2-70a1824b4f37</guid>
-            <pubDate>Tue, 03 May 2016 07:59:48 GMT</pubDate>
+            <pubDate>Tue, 03 May 2016 08:00:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
