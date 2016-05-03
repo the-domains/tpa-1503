@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I met Cesare Borgia. The second most powerful man in all of Italia, he wanted nothing more than to return Leonardo to, what he believes, is his rightful place - by Cesare's side."
-datePublished: '2016-05-03T07:59:48.945Z'
-dateModified: '2016-05-03T07:59:30.766Z'
+datePublished: '2016-05-03T08:00:48.264Z'
+dateModified: '2016-05-03T08:00:34.804Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-03-cesare-borgia.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-cesare-borgia.md
-published: true
 url: cesare-borgia/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ccb7566-10ba-447c-a126-b1f72a46c2f3.jpg)
+
 I met Cesare Borgia. The second most powerful man in all of Italia, he wanted nothing more than to return Leonardo to, what he believes, is his rightful place - by Cesare's side.
 
 I took Leonardo to visit some villages, as my usual weekly rounds had begun. I asked him to come along, because I knew that inquisitive Leonardo would find this different culture quite fascinating, and he would appreciate dearly me taking him on such a trip. 
