@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TPA-1503]]></title>
+        <description><![CDATA[TPA-1503]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 07:59:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cesare Borgia]]></title>
+            <description><![CDATA[<p>I met Cesare Borgia. The second most powerful man in all of Italia, he wanted nothing more than to return Leonardo to, what he believes, is his rightful place - by Cesare's side.</p>]]></description>
+            <link>undefinedcesare-borgia/index.html</link>
+            <guid isPermaLink="false">8b42628a-9510-4444-b7e2-70a1824b4f37</guid>
+            <pubDate>Tue, 03 May 2016 07:59:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
