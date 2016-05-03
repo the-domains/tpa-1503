@@ -1,0 +1,28 @@
+name: TPA-1503
+favicon: null
+layout_spectrum: 0.5085415199864656
+typography_spectrum: 0.8055582316592336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.33713434892706573
+  lightness: 0.6337902273517102
+  saturation: 0.3095466538798064
+  rhythmicContrast: 0.1768787989858538
+purpose: []
